@@ -47,7 +47,7 @@ Creators (R)
 
 
 
-Liat Cohen
-Adir Biran
+Liat Cohen      liatico77@gmail.com
+Adir Biran      adir.biran@gmail.com
 
 #############################################################################
